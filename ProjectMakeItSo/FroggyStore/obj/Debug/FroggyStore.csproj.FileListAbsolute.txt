@@ -1,0 +1,10 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\bin\Debug\FroggyStore.exe.config
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\bin\Debug\FroggyStore.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\bin\Debug\FroggyStore.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.FormStore.resources
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.Properties.Resources.resources
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.csproj.GenerateResource.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\FroggyStore\obj\Debug\FroggyStore.pdb
