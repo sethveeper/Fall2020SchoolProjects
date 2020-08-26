@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FroggyStore
 {
-    public partial class FormStore : Form
+    public partial class FormReceipt : Form
     {
-        public FormStore()
+        public FormReceipt()
         {
             InitializeComponent();
         }
@@ -20,6 +20,6 @@ namespace FroggyStore
 
 
     }
-    // End of Form Store partial class
+    // End of Form Receipt partial class
 }
 // End of namespace
