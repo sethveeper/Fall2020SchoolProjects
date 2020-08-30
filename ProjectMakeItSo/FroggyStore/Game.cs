@@ -52,7 +52,7 @@ namespace FroggyStore
 
         public override string ToStringFull()
         {
-            string output = "Rating: " + this.rating + "\n";
+            string output = "Rating: " + this.rating;
             output += base.ToStringFull();
             return output;
         }

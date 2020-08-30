@@ -49,18 +49,18 @@ namespace FroggyStore
 
         public override string ToString()
         {
-            return this.itemCode + " - " + this.itemName;
+            return this.itemName;
         }
         // End of To String method
 
         public virtual string ToStringFull()
         {
-            string output = "";
+            string output = "\r\n";
 
-            output += "Code: " + this.itemCode + "\n";
-            output += "Name: " + this.itemName + "\n\n";
-            output += "Description:\n" + this.description + "\n\n";
-            output += "Price: $" + this.price.ToString() + "\n";
+            output += "Code: " + this.itemCode + "\r\n";
+            output += "Name: " + this.itemName + "\r\n\r\n";
+            output += "Description:\r\n" + this.description + "\r\n";
+            output += "Price: " + this.price.ToString("C2") + "\r\n";
 
             return output;
         }
