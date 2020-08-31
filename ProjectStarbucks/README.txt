@@ -8,6 +8,8 @@ Time: 11:30 - 1:20, M/W
 Last Day: Dec 10
 Final: Dec 16
 
+Note: Check "Files" section on Canvas regularly!
+
 Instructor: "Mrs. Jacqueline Corley"
 - From Oklahoma City
 - Teaching for 4 years
