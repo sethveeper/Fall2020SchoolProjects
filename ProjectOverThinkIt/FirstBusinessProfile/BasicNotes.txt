@@ -50,7 +50,8 @@ https://www.nintendo.com/corp/mission.jsp
 ??
 
 - Suppliers/Allies
-??
+-- Foxconn
+-- Hosiden
 
 - Competitors
 https://craft.co/nintendo/competitors
