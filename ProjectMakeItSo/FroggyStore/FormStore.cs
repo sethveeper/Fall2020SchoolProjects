@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -69,6 +70,15 @@ namespace FroggyStore
         }
         // End of Button Add Game: Click event
 
+        private void listboxBooks_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Book output = listboxBooks.SelectedItem as Book;
+            textBookDescription.Text = output.ToStringFull();
+        }
+        // End of List Box Books: Selected Index Changed event
+
+
+
         private void btnAddBook_Click(object sender, EventArgs e)
         {
             if (listboxBooks.SelectedIndex > -1 && updownBook.Value > 0)
@@ -89,14 +99,53 @@ namespace FroggyStore
             }
             // End of If/Else If/Else statement
         }
+        // End of Button Add Book: Click event
 
-        private void listboxBooks_SelectedIndexChanged(object sender, EventArgs e)
+        private void BtnCheckout_Click(object sender, EventArgs e)
         {
-            Book output = listboxBooks.SelectedItem as Book;
-            textBookDescription.Text = output.ToStringFull();
-        }
-        // End of List Box Books: Selected Index Changed event
+            if(listboxCart.Items.Count > 0)
+            {
 
+                string name = "";
+                while (name == "")
+                    name = Interaction.InputBox("Please enter your name:", "What is your name?");
+                // Got the customer's name!
+
+                List<CartItem> cart = new List<CartItem>();
+
+                foreach (object item in listboxCart.Items)
+                {
+                    cart.Add(item as CartItem);
+                    // And, transferred the cart to a fresh List.
+                }
+                // End of Foreach
+
+                Customer output = new Customer(name, cart);
+                // Now we can get a full-on Receipt!
+
+                DialogResult result = MessageBox.Show(output.Receipt(), "Confirm Receipt", MessageBoxButtons.OKCancel);
+
+                if (result == DialogResult.OK)
+                {
+
+                    MessageBox.Show("Receipt saved and cart cleared! Please shop with us again!");
+                    DataMan.SaveReceipt(output);
+                }
+                else
+                {
+                    MessageBox.Show("Cart cleared! Please shop with us again!");
+                }
+                // End of If/Else statement
+
+                listboxCart.Items.Clear();
+            }
+            else
+            {
+                MessageBox.Show("You need to pick some items out first!");
+            }
+            // End of If/Else statement
+        }
+        // End of Button Checkout: Click event
 
     }
     // End of Form Store partial class

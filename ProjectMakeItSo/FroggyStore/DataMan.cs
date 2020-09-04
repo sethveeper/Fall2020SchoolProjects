@@ -12,17 +12,28 @@ namespace FroggyStore
         {
             List<Book> output = new List<Book>();
 
-            output.Add(new Book("Test01", 
-                "The Hitchhiker's Guide to the Galaxy", 
-                "The Hitchhiker's Guide has already supplanted the great Encyclopaedia Galactica as the standard repository of all knowledge and wisdom, for though it has many omissions . . . it scores over the older, more pedestrian work in two important respects. First, it is slightly cheaper; and secondly it has the words DON'T PANIC inscribed in large friendly letters on its cover.", 
-                2.75, 
-                "Ford Prefect, et al"));
+            System.IO.StreamReader file =
+                new System.IO.StreamReader(@"Books.txt");
+            // Hey look, a text file! I hope.
 
-            output.Add(new Book("Test02", 
-                "The Elements of Harmony: A Reference Guide",
-                "There are six Elements of Harmony, but only five are known: Kindness, Laughter, Generosity, Honesty and Loyalty. The sixth is a complete mystery. It is said, the last known location of the five elements was in the ancient castle of the royal pony sisters. It is located in what is now the Everfree Forest.",
-                1.23,
-                "Unknown"));
+            string bookFile;
+            while ((bookFile = file.ReadLine()) != null)
+            {
+                string[] args = bookFile.Split(new Char[] { ',' } );
+                /* Getting the arguments for the current book.
+
+                Order:
+                0- Code
+                1- Name
+                2- Description
+                3- Price
+                4- Author
+                 */
+                Book book = new Book(args[0], args[1], args[2], Convert.ToDouble(args[3]), args[4]);
+                output.Add(book);
+            }
+            // End of While loop
+            file.Close();
 
             return output;
         }
@@ -32,28 +43,44 @@ namespace FroggyStore
         {
             List<Game> output = new List<Game>();
 
-            output.Add(new Game("Test02",
-                "OASIS",
-                "The OASIS(Ontologically Anthropocentric Sensory Immersive Simulation) is a MMOSG (massively multiplayer online simulation game) created by James Halliday and Ogden Morrow of Gregarious Simulation Systems.",
-                0.25,
-                "E - Everyone"));
+            System.IO.StreamReader file =
+                new System.IO.StreamReader(@"Games.txt");
+            // Hey look, a text file! I hope.
 
-            output.Add(new Game("Test03",
-                "Sword Art Online",
-                "With the NerveGear, a helmet that stimulates the user's five senses via their brain, players can experience and control their in-game characters with their minds. Both Sword Art Online and the NerveGear were created by Akihiko Kayaba.",
-                59.99,
-                "M - Mature"));
+            string gameFile;
+            while ((gameFile = file.ReadLine()) != null)
+            {
+                string[] args = gameFile.Split(new Char[] { ',' });
+                /* Getting the arguments for the current game.
+
+                Order:
+                0- Code
+                1- Name
+                2- Description
+                3- Price
+                4- Author
+                 */
+                Game game = new Game(args[0], args[1], args[2], Convert.ToDouble(args[3]), args[4]);
+                output.Add(game);
+            }
+            // End of While loop
+            file.Close();
 
             return output;
         }
         // End of Get Games method
 
-        public static string GetReceipt()
+        public static void SaveReceipt(Customer customer)
         {
-            string output = "What.";
+            string output = customer.Receipt();
+            // Obviously we need the receipt itself.
 
-            return output;
+            string filename = customer.Name + ".txt";
+            // Then, we can construct a filename. It's kinda basic, to be honest, but whatever, I'm out of both time and patience.
+
+            System.IO.File.WriteAllText(filename, output);
         }
+        // End of Save Receipt method
     }
     // End of static Data Manager class
 }

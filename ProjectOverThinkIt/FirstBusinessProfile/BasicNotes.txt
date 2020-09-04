@@ -1,9 +1,30 @@
 Nintendo Business Profile, Summarized
 
 S - Strengths
+-- Franchises
+-- Unique Markets
+-- Cash Assets
+-- Console Lifecycle
+-- Distribution
+-- Pricing
+
 W - Weaknesses
+-- Low Margins
+-- Third-Party Relationships
+-- Online Infrastructure
+-- Technical Prowess
+
 O - Opportunities
+-- New Segments
+-- Online Systems Growth
+
 T - Threats
+-- Competition and Substitution
+-- Low Software Barrier to Entry
+-- Rapidly Evolving Technology
+
+- Misc Useful Links
+--- https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1149&context=honorstheses
 
 - Mission/Vision/Goals
 https://www.nintendo.com/corp/mission.jsp
@@ -33,6 +54,8 @@ https://www.nintendo.com/corp/mission.jsp
 
 - Competitors
 https://craft.co/nintendo/competitors
+--- Microsoft
+--- Sony??
 --- Activision Blizzard
 --- Electronic Arts
 --- Zynga

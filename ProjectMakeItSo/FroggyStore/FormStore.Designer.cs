@@ -43,6 +43,7 @@
             this.textGameDescription = new System.Windows.Forms.TextBox();
             this.textBookDescription = new System.Windows.Forms.TextBox();
             this.listboxCart = new System.Windows.Forms.ListBox();
+            this.BtnCheckout = new System.Windows.Forms.Button();
             this.tabControl.SuspendLayout();
             this.tabBooks.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.updownBook)).BeginInit();
@@ -172,6 +173,7 @@
             // 
             // tabCheckout
             // 
+            this.tabCheckout.Controls.Add(this.BtnCheckout);
             this.tabCheckout.Controls.Add(this.listboxCart);
             this.tabCheckout.Location = new System.Drawing.Point(4, 34);
             this.tabCheckout.Margin = new System.Windows.Forms.Padding(6);
@@ -214,6 +216,16 @@
             this.listboxCart.Size = new System.Drawing.Size(846, 454);
             this.listboxCart.TabIndex = 0;
             // 
+            // BtnCheckout
+            // 
+            this.BtnCheckout.Location = new System.Drawing.Point(9, 466);
+            this.BtnCheckout.Name = "BtnCheckout";
+            this.BtnCheckout.Size = new System.Drawing.Size(187, 46);
+            this.BtnCheckout.TabIndex = 1;
+            this.BtnCheckout.Text = "Checkout!";
+            this.BtnCheckout.UseVisualStyleBackColor = true;
+            this.BtnCheckout.Click += new System.EventHandler(this.BtnCheckout_Click);
+            // 
             // FormStore
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -254,6 +266,7 @@
         private System.Windows.Forms.TextBox textGameDescription;
         private System.Windows.Forms.TextBox textBookDescription;
         private System.Windows.Forms.ListBox listboxCart;
+        private System.Windows.Forms.Button BtnCheckout;
     }
 }
 

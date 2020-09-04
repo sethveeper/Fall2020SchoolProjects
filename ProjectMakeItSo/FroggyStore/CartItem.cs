@@ -70,6 +70,28 @@ namespace FroggyStore
 
             return output;
         }
+        // End of To String method
+
+        public string ToStringReceipt()
+        {
+            string output = this.quantity.ToString() + "\t";
+            output += this.Price().ToString("C2") + "\t";
+
+            if (type)
+            {
+                output += this.book.Price.ToString("C2") + "\t";
+                output += this.book.ItemName;
+            }
+            else
+            {
+                output += this.game.Price.ToString("C2") + "\t";
+                output += this.game.ItemName;
+            }
+            // End of If/Else statement
+
+            output += "\n";
+            return output;
+        }
         #endregion
         // End of Methods
 
