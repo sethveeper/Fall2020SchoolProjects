@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Author: Dominic "Seth" Jones-Jackson
+Author: Dominic "Seth" Jones-Jackson (F)
 Date: September 14, 2020
 
 Purpose: Write a program that reads in the radius and length of a cylinder and 
