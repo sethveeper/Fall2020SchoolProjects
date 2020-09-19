@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\AsymptoticAnalysis.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\ChainCore.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\bin\Debug\netcoreapp3.1\ChainCore.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.csproj.CopyComplete
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\AsymptoticAnalysis\AsymptoticAnalysis\obj\Debug\netcoreapp3.1\AsymptoticAnalysis.genruntimeconfig.cache

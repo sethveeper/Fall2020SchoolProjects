@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ChainCore">
+      <HintPath>..\..\..\..\ChainCore\ChainCore\bin\Release\netcoreapp3.1\ChainCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
