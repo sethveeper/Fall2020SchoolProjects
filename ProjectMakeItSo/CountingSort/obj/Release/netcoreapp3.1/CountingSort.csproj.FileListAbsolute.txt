@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\bin\Release\netcoreapp3.1\CountingSort.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\CountingSort\obj\Release\netcoreapp3.1\CountingSort.genruntimeconfig.cache
