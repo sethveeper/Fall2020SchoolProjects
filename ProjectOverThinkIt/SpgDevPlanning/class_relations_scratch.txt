@@ -1,0 +1,42 @@
+User:
+- Name
+- Password
+- Description
+- Contact Info
+- PFP
+- Event Schedule
++ Create Profile()
++ Modify Profile()
++ Add Type(Sponsor, Company, Developer, or Admin)
++ Join Event()
++ Send Message(User)
+
+= Sponsor
+= - Sponsor Level
+= - Payment Info?
+= - Advertisement
+= + Make Sponser(User)
+
+= Company
+= - Hiring Status
+= + Make Company(User)
+
+= Developer
+= - Hiring Status
+= - Qualifications
+= + Make Developer(User)
+
+= Admin
+= - Permissions
+= + Make Admin(User)
+= + Modify Site()
+
+Event:
+- Title
+- Description
+- Address
+- Guest List
++ Create Event()
++ Modify Event()
++ Add Guest(User)
+// TO DO: Ask Myke if there might be more than one type of event!
