@@ -1,0 +1,11 @@
+1 "What is one thing that Mr. Snider recommends about job searching?"
+
+- Definitely be very familiar with what you put on your resume. Be ready to talk to more than one person during the interview process. Be prepared for "whiteboard questions" as well. More in general... It seems to me that attitude is just as important as your resume. You have to be someone who is worth being around, pleasant to work with, as well as experienced and confident in your experience. It's worth reading up and practicing for interviews especially alongside the more general studies and practicing.
+
+2 "If you wanted a job at a place like ArenaNet, based on what you learned in the interview, what is one thing you should do in order to make yourself a desirable candidate?"
+
+- Some relevant topics to ArenaNet are linear algebra, vectors, cross and dot products, and memory management, in addition to the normal technical wants and soft skills.
+
+3 "What was a key takeaway, or one piece of important information, that you learned from this interview?"
+
+- Soft skills, being easy to work with and being able to learn new things and keep a flexible knowledge base are absolutely as critical as pure technical know-how; arguably more so, even.
