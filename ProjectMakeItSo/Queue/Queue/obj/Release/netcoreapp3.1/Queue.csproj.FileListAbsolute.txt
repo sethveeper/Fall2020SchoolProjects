@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\bin\Release\netcoreapp3.1\Queue.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Queue\Queue\obj\Release\netcoreapp3.1\Queue.genruntimeconfig.cache
