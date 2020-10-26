@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\bin\Debug\netcoreapp3.1\Trees.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\Trees\obj\Debug\netcoreapp3.1\Trees.genruntimeconfig.cache
