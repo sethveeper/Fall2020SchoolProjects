@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\ConsoleTest.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\BinTree.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\bin\Debug\netcoreapp3.1\BinTree.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.csproj.CopyComplete
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\ConsoleTest\obj\Debug\netcoreapp3.1\ConsoleTest.genruntimeconfig.cache

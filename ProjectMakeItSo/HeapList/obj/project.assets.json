@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
-      "projectName": "BinTree",
-      "projectPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\HeapList\\HeapList.csproj",
+      "projectName": "HeapList",
+      "projectPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\HeapList\\HeapList.csproj",
       "packagesPath": "C:\\Users\\Seth Veeper\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\HeapList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

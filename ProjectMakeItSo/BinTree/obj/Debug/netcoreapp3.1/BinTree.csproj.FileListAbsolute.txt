@@ -1,0 +1,9 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\bin\Debug\netcoreapp3.1\BinTree.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\bin\Debug\netcoreapp3.1\BinTree.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\bin\Debug\netcoreapp3.1\BinTree.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\BinTree\obj\Debug\netcoreapp3.1\BinTree.pdb

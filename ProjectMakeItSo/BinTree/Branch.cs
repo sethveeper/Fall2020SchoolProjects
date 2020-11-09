@@ -4,12 +4,14 @@
  */
 
 using System;
+using System.IO;
 
 namespace BinTree
 {
     public class Branch
     {
         #region Properties and Constructors
+        static System.ArgumentException missing = new System.ArgumentException("Value was not found.", "value");
         private byte value;
         private bool red;
         private Branch prev;
@@ -36,14 +38,41 @@ namespace BinTree
         #endregion
         // End of Properties and Constructors
 
-        public void Add(byte input)
+        public Branch Search(byte input)
         {
-            if (this.value > input)
+            if (input > this.value)
+            {
+                if (this.more != null)
+                    return this.more.Search(input);
+                // End of If (There's more options)
+                else
+                    throw missing;
+                // End of Else (We're at the end of the branches)
+            }
+            // End of If (Is it greater than this value?)
+            else if (input < this.value)
+            {
+                if (this.less != null)
+                    return this.less.Search(input);
+                // End of If (There's more options)
+                else
+                    throw missing;
+                // End of Else (We're at the end of the branches)
+            }
+            // End of If (Is it less than this value?)
+
+            return this;
+        }
+        // End of Search method
+
+        public void Add(Branch input)
+        {
+            if (this.value > input.Value)
             {
                 if (this.less != null)
                     this.less.Add(input);
                 else
-                    this.less = new Branch(input);
+                    this.Assign(input, false);
             }
             // End of If (This value is greater than the input)
             else
@@ -51,11 +80,22 @@ namespace BinTree
                 if (this.more != null)
                     this.more.Add(input);
                 else
-                    this.more = new Branch(input);
+                    this.Assign(input, true);
             }
             // End of If (This value is less than or equal to the input)
         }
         // End of Add method
+
+        public void Assign(Branch input, bool more)
+        {
+            input.Prev = this;
+            input.Red = !this.red;
+            if (!more)
+                this.less = input;
+            else
+                this.more = input;
+        }
+        // End of Assign method
 
         public void Switch()
         {
@@ -68,10 +108,16 @@ namespace BinTree
 
         public override string ToString()
         {
-            return this.value.ToString();
+            string output = this.value.ToString();
+
+            if (this.red)
+                output += "(Red)";
+            else
+                output += "(Black)";
+
+            return output;
         }
         // End of ToString method
-
     }
     // End of Branch class
 }
