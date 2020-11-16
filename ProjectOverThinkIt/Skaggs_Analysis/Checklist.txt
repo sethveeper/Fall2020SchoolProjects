@@ -1,0 +1,9 @@
+❏ Cost Analysis
+❏ Maintenence Cost
+❏ Company Profile
+❏ SWOT Analysis
+❏ System Requirements
+❏ Entity Relationship Diagram
+❏ Data Flow Diagram
+❏ Tables of Database 
+❏ UI Designs

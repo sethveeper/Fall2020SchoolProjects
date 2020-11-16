@@ -1,0 +1,4 @@
+"At Skaggs Foundation, our mission is to support community initiatives that
+improve health and wellness in Taney and Stone counties."
+
+The Skaggs Foundation is a local medical charity drive supporting members of Taney and Stone counties. Their website, previously built (And hosted?) on WIX, must be rebuilt in WordPress. This will allow easier maintenance and greater fuctionality, particularly for the purpose of charity auctions that must be executed this winter.
