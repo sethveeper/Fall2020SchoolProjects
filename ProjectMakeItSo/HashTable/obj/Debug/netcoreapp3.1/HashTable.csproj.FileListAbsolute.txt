@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+D:\Documents\GitHub\Fall2020SchoolProjects\ProjectMakeItSo\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache
