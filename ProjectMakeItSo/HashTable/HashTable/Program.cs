@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+	Author: Dominic “Seth” Jones-Jackson (She/They)
+	Initialization Date: December 6, 2020
+	Finalization Date: December 9, 2020
+*/
+
+using System;
 
 namespace HashTable
 {
