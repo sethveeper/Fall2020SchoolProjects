@@ -136,7 +136,7 @@ namespace HashTable
         public Contact Find(string input)
         {
             Contact output = new Contact();
-
+            output.Name = "Failed To Find";
             int index = this.Hash(input);
             Contact[] ary = Node.Array(this.table[index]);
 
@@ -147,7 +147,10 @@ namespace HashTable
             }
             // End of For loop
 
-            return output;
+            if (output.Name == "Failed To Find")
+                throw new Exception("That contact doesn't exist!");
+            else
+                return output;
         }
         // End of Find method
         #endregion
