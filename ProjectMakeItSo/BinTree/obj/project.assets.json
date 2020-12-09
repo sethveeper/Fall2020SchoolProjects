@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dj0803805\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Seth Veeper\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dj0803805\\OneDrive - Ozarks Technical Community College\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
       "projectName": "BinTree",
-      "projectPath": "C:\\Users\\dj0803805\\OneDrive - Ozarks Technical Community College\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
-      "packagesPath": "C:\\Users\\dj0803805\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dj0803805\\OneDrive - Ozarks Technical Community College\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\BinTree.csproj",
+      "packagesPath": "C:\\Users\\Seth Veeper\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\Fall2020SchoolProjects\\ProjectMakeItSo\\BinTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\dj0803805\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Seth Veeper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
